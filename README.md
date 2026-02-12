@@ -58,7 +58,7 @@
 ## 🚀 使用方法
 
 ```bash
-python Steam_Game_Notes.py
+python main.py
 ```
 
 ### 基本操作流程
